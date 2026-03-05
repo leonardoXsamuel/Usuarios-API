@@ -1,0 +1,14 @@
+C:\Projetos\C#\R\UsuariosAPI\Usuarios-API\Usuarios-API\obj\Debug\net8.0\Usuarios-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\R\UsuariosAPI\Usuarios-API\Usuarios-API\obj\Debug\net8.0\Usuarios-API.AssemblyInfoInputs.cache
+C:\Projetos\C#\R\UsuariosAPI\Usuarios-API\Usuarios-API\obj\Debug\net8.0\Usuarios-API.AssemblyInfo.cs
+C:\Projetos\C#\R\UsuariosAPI\Usuarios-API\Usuarios-API\obj\Debug\net8.0\Usuarios-API.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\R\UsuariosAPI\Usuarios-API\Usuarios-API\bin\Debug\net8.0\Usuarios-API.exe
+C:\Projetos\C#\R\UsuariosAPI\Usuarios-API\Usuarios-API\bin\Debug\net8.0\Usuarios-API.deps.json
+C:\Projetos\C#\R\UsuariosAPI\Usuarios-API\Usuarios-API\bin\Debug\net8.0\Usuarios-API.runtimeconfig.json
+C:\Projetos\C#\R\UsuariosAPI\Usuarios-API\Usuarios-API\bin\Debug\net8.0\Usuarios-API.dll
+C:\Projetos\C#\R\UsuariosAPI\Usuarios-API\Usuarios-API\bin\Debug\net8.0\Usuarios-API.pdb
+C:\Projetos\C#\R\UsuariosAPI\Usuarios-API\Usuarios-API\obj\Debug\net8.0\Usuarios-API.dll
+C:\Projetos\C#\R\UsuariosAPI\Usuarios-API\Usuarios-API\obj\Debug\net8.0\refint\Usuarios-API.dll
+C:\Projetos\C#\R\UsuariosAPI\Usuarios-API\Usuarios-API\obj\Debug\net8.0\Usuarios-API.pdb
+C:\Projetos\C#\R\UsuariosAPI\Usuarios-API\Usuarios-API\obj\Debug\net8.0\Usuarios-API.genruntimeconfig.cache
+C:\Projetos\C#\R\UsuariosAPI\Usuarios-API\Usuarios-API\obj\Debug\net8.0\ref\Usuarios-API.dll
