@@ -23,11 +23,10 @@ Uma API em .NET para cadastro e gerenciamento de usuários, incluindo informaç�
 - SQL Server
 
 ## Estrutura das Classes
-User: informações principais do usuário (como: nome, email, username, telefone, Address, Comapany)
-Address: rua, suite, cidade, CEP, Geo
-Geo: latitude e longitude
-Company: nome da empresa
----
+- **User**: informações principais do usuário (nome, email, username, Address, Company)
+- **Address**: rua, suite, cidade, CEP, Geo
+- **Geo**: latitude e longitude
+- **Company**: nome da empresa
 
 ## Como Rodar
 
@@ -35,7 +34,7 @@ Company: nome da empresa
    ```bash
    git clone https://github.com/leonardoXsamuel/Usuarios-API.git
 
-2. Abra o projeto no Visual Studio ou VS Code.
+2. Abra o projeto no Visual Studio ou VS Code e em seguida o terminal.
 3. Restaure os pacotes:
     ```bash
    dotnet restore
