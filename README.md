@@ -36,8 +36,13 @@ Company: nome da empresa
    git clone https://github.com/leonardoXsamuel/Usuarios-API.git
 
 2. Abra o projeto no Visual Studio ou VS Code.
-3. Restaure os pacotes: dotnet restore
-4. Rode a aplicação: dotnet run
+3. Restaure os pacotes:
+    ```bash
+   dotnet restore
+  
+4. Rode a aplicação:
+   ```bash
+   dotnet run
 
 ## Acesso à documentação:
 http://localhost:5268/swagger
